@@ -52,10 +52,6 @@ test.cpp: Test file that holds tests testing for faulty implementations.
 # Credit
 Kenney Sokoban Pack (CC0): https://kenney.nl/assets/sokoban
 
-https://www.fontsquirrel.com/fonts/list/popular
+OpenSans.tff: https://www.fontsquirrel.com/fonts/list/popular
 
-https://www.sfml-dev.org/tutorials/2.6/system-time.php
-
-https://www.myinstants.com/en/instant/yippee-tbh-93589/
-
-https://en.cppreference.com/w/cpp/algorithm/min
+winner.wav: https://www.myinstants.com/en/instant/yippee-tbh-93589/
