@@ -15,8 +15,11 @@ To undo a move, press `Z`.
 
 # Features
 Dynamic player and box movement.
+
 Teleport stations.
+
 Movement undo.
+
 Timer.
 
 # Files
