@@ -2,6 +2,23 @@
 This is a classic puzzle game, Sokoban, incorporating player-controlled movement, teleporters, undo functionality, and dynamic box movement to create an engaging and immersive gaming experience. This project leverages the SFML library for graphic rendering, ensuring a polished and visually appealing interface that enhances user enjoyment and immersion. Sokoban applies object-oriented programming principles to encapsulate game logic, streamline level loading, and implement efficient game state serialization, promoting code organization and maintainability.
 Implements OOP, inheritance, encapsulation, file manipulation, 2D vectors, stacks, lambdas, overloaded operators, SFML library graphic rendering.
 
+Levels are in the following format:
+```
+11 13
+#############
+#a..........#
+#....A.A...a#
+#.###.#A#####
+#.@......a#+#
+#.#########.#
+#.#a......#.#
+#+#.###A#A#.#
+###.........#
+#......a....#
+#############
+```
+
+
 # How to play
 Run the Makefile
 
