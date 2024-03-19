@@ -48,3 +48,14 @@ Sokoban.cpp: Implementation file for the Sokoban class and SB namespace.
 main.cpp: Main program file that includes the game and drawing loop.
 
 test.cpp: Test file that holds tests testing for faulty implementations.
+
+# Credit
+Kenney Sokoban Pack (CC0): https://kenney.nl/assets/sokoban
+
+https://www.fontsquirrel.com/fonts/list/popular
+
+https://www.sfml-dev.org/tutorials/2.6/system-time.php
+
+https://www.myinstants.com/en/instant/yippee-tbh-93589/
+
+https://en.cppreference.com/w/cpp/algorithm/min
